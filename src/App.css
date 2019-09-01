@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+}
+
+#root {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.MuiButtonGroup-fullWidth {
+  margin-top: 0.5rem;
+}
+
+.MuiButton-root {
+  border-radius: 0 !important;
+}
+
+#root .App {
+  max-width: 350px;
+  padding: 1rem;
+  box-shadow: 5px 5px 10px 0 rgba(0,0,0,.05);
+  background: #eee;
+}

@@ -1,0 +1,11 @@
+
+.displayBx {
+    height: 3rem;
+    background: #333;
+    line-height: 3rem;
+    color: #fff;
+    text-align: right;
+    padding: 0 0.5rem;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
